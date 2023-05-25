@@ -1,2 +1,2 @@
-# post-it-bookmarklet
+find code here: https://github.com/gabrielzv1233/post-it-bookmarklet/blob/main/bookmarklet.js installing a bookmarklet (the program that is used here) is as easy as making a new bookmark and changing the URL to the code that you have been given and optinally changing the name of the bookmark, to run the bookmarklet, just click the bookmark you made Can also be found here: https://post-it-bookmarklet.gabrielzv1233.repl.co
 click the bookmarklet to make a new text area, click and drag to move, hold shift then click and drag to resize
